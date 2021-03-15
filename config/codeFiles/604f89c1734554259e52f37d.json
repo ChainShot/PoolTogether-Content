@@ -1,6 +1,6 @@
 {
-  "executablePath": "mintLootBox.js",
-  "name": "mintLootBox.js",
+  "executablePath": "mintNFT.js",
+  "name": "mintNFT.js",
   "executable": true,
   "hasProgress": true,
   "mode": "javascript",
