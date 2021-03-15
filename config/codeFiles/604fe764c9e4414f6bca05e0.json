@@ -6,11 +6,12 @@
   "mode": "javascript",
   "readOnly": true,
   "testFixture": true,
-  "visible": true,
+  "visible": false,
   "stageContainerId": "604f7b6b734554259e52f36e",
   "codeStageIds": [
     "604f8069734554259e52f36f"
   ],
   "id": "604fe764c9e4414f6bca05e0",
-  "initialCode": "$$LOOKUP"
+  "initialCode": "$$LOOKUP",
+  "fileLocation": null
 }
