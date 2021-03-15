@@ -1,0 +1,30 @@
+{
+  "containerId": "604f7b6b734554259e52f36e",
+  "title": "Create NFT",
+  "abiValidations": "$$LOOKUP",
+  "task": "$$LOOKUP",
+  "details": "$$LOOKUP",
+  "id": "604fece6c9e4414f6bca05e5",
+  "type": "CodeStage",
+  "language": "solidity",
+  "languageVersion": "0.7.5",
+  "testFramework": "truffle_with_mocha",
+  "codeFileIds": [
+    "604fece6c9e4414f6bca05e7",
+    "604fece6c9e4414f6bca05e8",
+    "604fece6c9e4414f6bca05e9",
+    "604fece6c9e4414f6bca05ea",
+    "604fece6c9e4414f6bca05eb",
+    "604fece6c9e4414f6bca05f1",
+    "604fece6c9e4414f6bca05f2",
+    "604fece6c9e4414f6bca05f3",
+    "604fece6c9e4414f6bca05f4",
+    "604fece6c9e4414f6bca05f6",
+    "604fece6c9e4414f6bca05f7",
+    "604fed64c9e4414f6bca0613"
+  ],
+  "position": 0,
+  "youtubeId": null,
+  "src": null,
+  "forkBlockNumber": 12045840
+}

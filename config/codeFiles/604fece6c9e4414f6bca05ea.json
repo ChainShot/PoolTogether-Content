@@ -1,0 +1,19 @@
+{
+  "executablePath": "contracts/LootBoxController.sol",
+  "name": "LootBoxController.sol",
+  "executable": false,
+  "hasProgress": false,
+  "mode": "sol",
+  "readOnly": true,
+  "testFixture": false,
+  "visible": true,
+  "stageContainerId": "604f7b6b734554259e52f36e",
+  "codeStageIds": [
+    "604fece6c9e4414f6bca05e5",
+    "604fed17c9e4414f6bca060b",
+    "604fed20c9e4414f6bca060f"
+  ],
+  "id": "604fece6c9e4414f6bca05ea",
+  "initialCode": "$$LOOKUP",
+  "fileLocation": null
+}
