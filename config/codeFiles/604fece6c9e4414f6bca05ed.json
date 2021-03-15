@@ -9,7 +9,8 @@
   "visible": true,
   "stageContainerId": "604f7b6b734554259e52f36e",
   "codeStageIds": [
-    "604fed17c9e4414f6bca060b"
+    "604fed17c9e4414f6bca060b",
+    "604fed20c9e4414f6bca060f"
   ],
   "id": "604fece6c9e4414f6bca05ed",
   "initialCode": "$$LOOKUP",
