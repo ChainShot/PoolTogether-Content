@@ -1,0 +1,17 @@
+{
+  "executablePath": "createNFT.js",
+  "name": "createNFT.js",
+  "executable": true,
+  "hasProgress": true,
+  "mode": "javascript",
+  "readOnly": false,
+  "testFixture": false,
+  "visible": true,
+  "stageContainerId": "604f7b6b734554259e52f36e",
+  "codeStageIds": [
+    "604f8069734554259e52f36f"
+  ],
+  "id": "604f890f734554259e52f37b",
+  "initialCode": "$$LOOKUP",
+  "fileLocation": null
+}

@@ -1,0 +1,26 @@
+{
+  "containerId": "604f7b6b734554259e52f36e",
+  "title": "Create ERC721",
+  "abiValidations": "$$LOOKUP",
+  "task": "$$LOOKUP",
+  "details": "$$LOOKUP",
+  "id": "604f8069734554259e52f36f",
+  "type": "CodeStage",
+  "language": "solidity",
+  "languageVersion": "0.7.5",
+  "testFramework": "truffle_with_mocha",
+  "codeFileIds": [
+    "604f8069734554259e52f370",
+    "604f80b4734554259e52f373",
+    "604f8889734554259e52f375",
+    "604f88b1734554259e52f377",
+    "604f88d2734554259e52f379",
+    "604f890f734554259e52f37b",
+    "604f89c1734554259e52f37d",
+    "604f8d69734554259e52f37f"
+  ],
+  "position": 0,
+  "youtubeId": null,
+  "src": null,
+  "forkBlockNumber": 11395144
+}
