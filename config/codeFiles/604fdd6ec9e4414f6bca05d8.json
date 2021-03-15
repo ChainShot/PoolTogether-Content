@@ -1,0 +1,17 @@
+{
+  "executablePath": "contracts/interfaces/IERC721ControlledFactory.sol",
+  "name": "IERC721ControlledFactory.sol",
+  "executable": true,
+  "hasProgress": false,
+  "mode": "sol",
+  "readOnly": true,
+  "testFixture": false,
+  "visible": false,
+  "stageContainerId": "604f7b6b734554259e52f36e",
+  "codeStageIds": [
+    "604f8069734554259e52f36f"
+  ],
+  "id": "604fdd6ec9e4414f6bca05d8",
+  "initialCode": "$$LOOKUP",
+  "fileLocation": null
+}

@@ -1,13 +1,9 @@
 // SPDX-License-Identifier: MIT
-
-pragma solidity ^0.6.12;
-
-import "./ERC721Controlled.sol";
+pragma solidity ^0.7.5;
 
 /// @title Factory to create ERC721Controlled tokens
-/// @author Brendan Asselstine <brendan@pooltogether.com>
 /// @notice Creates new ERC721Controlled tokens using the minimal proxy pattern.
-contract ERC721ControlledFactory {
+interface IERC721ControlledFactory {
 
   /// @notice Emitted when a ERC721Controlled is created
   event ERC721ControlledCreated(address indexed token);
@@ -18,10 +14,5 @@ contract ERC721ControlledFactory {
     string memory name,
     string memory symbol,
     string memory baseURI
-  ) external returns (ERC721Controlled) {
-    ERC721Controlled result = new ERC721Controlled();
-    result.initialize(name, symbol, baseURI, msg.sender);
-    emit ERC721ControlledCreated(address(result));
-    return result;
-  }
+  ) external returns (address);
 }
